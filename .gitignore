@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Environnements Conda/Mamba
+.conda/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Données (Datasets) - Mieux vaut ne pas les uploader s'ils sont lourds
+data/
+*.csv
+*.npy
+*.pth
